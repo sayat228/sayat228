@@ -40,4 +40,4 @@ Junior Cybersecurity Engineer & Programmer.
 
 ---
 
-![В режиме фото](https://iimg.su/i/hXrGO1)
+![В режиме фото](https://i.img.su/hXrGO1.jpg)
