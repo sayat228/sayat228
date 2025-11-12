@@ -32,7 +32,7 @@ Junior Cybersecurity Engineer & Programmer.
 - 📁 [Код](#) | 🌐 [Демо](#)
 
 ## 📊 Статистика GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayat228&show_icons=true&theme=radical)
+![GitHub stats](https://iimg.su/i/hXrGO1)
 
 ## 📫 Как связаться
 - GitHub: [@sayat228](https://github.com/sayat228)  
