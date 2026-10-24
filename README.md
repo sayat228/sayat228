@@ -1,138 +1,146 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=SAYAT228&fontSize=65&color=0:050816,50:102A43,100:7C3AED&stroke=00F7FF&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&desc=CODE%20%7C%20SECURE%20%7C%20BUILD&descAlignY=70&descSize=18" width="100%" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sayat+%F0%9F%91%8B;Developer+in+Progress+%F0%9F%92%BB;Cybersecurity+%7C+Networking+%7C+CTF;Building+skills+one+commit+at+a+time" alt="Typing intro" />
-<img src="https://img.shields.io/badge/ROLE-IT%20STUDENT-00F7FF?style=for-the-badge&labelColor=101426" />
-<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-7C3AED?style=for-the-badge&labelColor=101426" />
-<img src="https://img.shields.io/badge/INTEREST-CYBERSECURITY-FF3158?style=for-the-badge&labelColor=101426" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:6d28d9,100:00f7ff&height=200&section=header&text=SAYAT228&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=CODE%20%E2%80%A2%20SECURE%20%E2%80%A2%20BUILD&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Sayat228 animated header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sayat+%F0%9F%91%8B;Cybersecurity+Student+%7C+Developer;Learning.+Building.+Breaking+Things+Legally.;Future+Security+Engineer+%F0%9F%9B%A1%EF%B8%8F" alt="Animated introduction"/>
+<br/>
+<img src="https://img.shields.io/badge/ROLE-IT%20STUDENT-00f7ff?style=for-the-badge&labelColor=101426"/>
+<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-7c3aed?style=for-the-badge&labelColor=101426"/>
+<img src="https://img.shields.io/badge/INTEREST-CYBERSECURITY-ff3864?style=for-the-badge&labelColor=101426"/>
 </div>
 
 ⸻
+
 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/sayat228/sayat228/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
-</div>
-
-📊 Statistics update from GitHub data when the services refresh. The snake animation requires a GitHub Actions workflow, which we’ll configure separately below.
-
-⚡ GITHUB COMMAND CENTER
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/sayat228/sayat228/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
-📡 Live Profile Statistics
+Every contribution is a step forward.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayat228&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayat228&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most used languages" />
-<img width="75%" src="https://streak-stats.demolab.com?user=sayat228&theme=tokyonight&hide_border=true&background=0D1117&ring=FF3158&fire=FF3158&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
-
-🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/sayat228/sayat228/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
 </div>
-
-📊 Statistics update from GitHub data when the services refresh. The snake animation requires a GitHub Actions workflow, which we’ll configure separately below.
 
 ⸻
 
-🧰 PROGRAMMING & DEVELOPMENT
+📊 GitHub Command Center
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,go,html,css,js,ts,react,nextjs,nodejs,git,github,vscode&perline=6" alt="Programming technology icons" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sayat228&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayat228&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&langs_count=8" alt="Most used languages"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayat228&theme=tokyonight&hide_border=true&background=0d1117&ring=ff3864&fire=ff3864&currStreakLabel=00f7ff" alt="GitHub contribution streak"/>
+</div>
+
+⸻
+
+👤 01 — Who Am I?
+
+Name       : Sayat
+Role       : IT Student | Aspiring Developer
+Focus      : Programming + Cybersecurity
+Mindset    : Learn → Build → Test → Improve
+Mission    : Become a skilled security engineer
+
+* 💻 Building projects and improving my coding skills.
+* 🐍 Learning Python and exploring Go.
+* 🌐 Studying web technologies and how applications work.
+* 🛡️ Exploring cybersecurity, networking and web security.
+* 🧩 Practicing problem-solving and CTF challenges.
+* 📚 Learning through hands-on labs and personal projects.
+
+I’m at the beginning of the journey, building real skills one project at a time.
+
+⸻
+
+💻 02 — Programming & Development
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,go,html,css,js,ts,react,nodejs,git,github,vscode&theme=dark&perline=6" alt="Programming technology icons"/>
 </div>
 
 Technology	Focus
-🐍 Python	Scripting, problem solving and automation
-🐹 Go	Learning and building projects
-🌐 HTML & CSS	Web fundamentals and interface design
-⚡ JavaScript & TypeScript	Web programming
-⚛️ React & Next.js	Exploring modern frontend development
-🔧 Git & GitHub	Version control and project collaboration
+🐍 Python	Scripting, automation and fundamentals
+🐹 Go	Learning backend development and programming
+🌐 HTML & CSS	Web structure, styling and responsive layouts
+⚡ JavaScript	Learning interactive web development
+⚛️ React	Exploring component-based interfaces
+🔧 Git & GitHub	Version control and project workflows
+🖥️ VS Code	Daily development environment
 
-My experience varies by technology. I’m learning, experimenting and building practical projects.
-
-⸻
-
-🛡️ CYBERSECURITY & NETWORKING
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git&perline=4" alt="Cybersecurity and development tools" />
-</div>
-
-Area	Current learning
-🌐 Networking	TCP/IP, DNS, HTTP and OSI model
-🐧 Linux	Terminal, commands, permissions and files
-🔐 Web security	Requests, authentication and common vulnerabilities
-🧪 Pentesting	Methodology and authorized lab practice
-🚩 CTF	Reconnaissance and security problem-solving
-🧰 Tools	Burp Suite, Wireshark and Nmap
-
-<div align="center">
-<img src="https://img.shields.io/badge/TryHackMe-Learning-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-Exploring-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-Practice-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/CTF-Training-7C3AED?style=for-the-badge" />
-</div>
-
-🔒 My goal is to understand how systems work, identify weaknesses responsibly and learn how to protect applications.
+Technologies are part of my learning roadmap; experience and proficiency vary.
 
 ⸻
 
-🎯 CURRENT MISSION
+🛡️ 03 — Cybersecurity & Networking
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,kali,docker,git&theme=dark&perline=5" alt="Cybersecurity and development tools"/>
+</div>
+
+Area	Current learning focus
+🌐 Networking	TCP/IP, DNS, HTTP/HTTPS and OSI model
+🐧 Linux	Terminal, commands, files and permissions
+🔎 Web Security	Requests, authentication and common vulnerabilities
+🧪 Pentesting	Testing methodology in authorized lab environments
+🚩 CTF	Reconnaissance, logic and challenge-solving
+🧰 Security Tools	Exploring Burp Suite, Wireshark and Nmap
+
+🔬 My Learning Lab
+
+* TryHackMe — hands-on cybersecurity learning.
+* PortSwigger Web Security Academy — web security labs and Burp Suite.
+* OverTheWire — Linux and security fundamentals.
+* picoCTF — beginner-friendly security challenges.
+* Cisco Skills for All — networking and cybersecurity courses.
+
+I use authorized labs and training environments to practice security skills.
+
+⸻
+
+🎯 04 — Current Status
 
 Mission	Status
-💻 Programming	📚 Learning & building
-🌐 Networking	🔄 Strengthening fundamentals
-🐧 Linux	⚙️ Practicing commands
-🔐 Web security	🧪 Exploring training labs
-🚩 CTF	🎯 Improving step by step
-📜 Certifications	🗺️ Learning & preparing
+🐍 Python & scripting	📚 Learning
+🌐 Networking fundamentals	📚 Studying
+🐧 Linux & terminal	⚙️ Practicing
+🛡️ Web security	🔬 Exploring
+🚩 CTF challenges	🧩 Improving
+📜 Certifications	🎯 Learning and preparing
 🚀 Personal projects	🛠️ In progress
 
-🧭 Next objectives
+Next Objectives
 
-* [ ]	Improve Python and scripting
-* [ ]	Build and publish more projects
-* [ ]	Strengthen Linux and networking fundamentals
-* [ ]	Complete more TryHackMe learning paths
-* [ ]	Practice web security in authorized labs
-* [ ]	Prepare for relevant certifications
+* [ ]	Improve Python and scripting.
+* [ ]	Strengthen Linux and networking fundamentals.
+* [ ]	Complete more hands-on security labs.
+* [ ]	Learn Burp Suite and HTTP traffic analysis.
+* [ ]	Build and document useful personal projects.
+* [ ]	Work toward relevant cybersecurity certifications.
 
 ⸻
 
-🤝 CONNECT WITH ME
+🚀 05 — Projects & Experiments
 
 <div align="center">
+<a href="https://github.com/sayat228?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 </div>
+
+I use personal projects to turn theory into practice, experiment with technologies and track my progress.
+
+➡️ Browse all my repositories
+
+⸻
+
+🤝 06 — Connect With Me
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,50:7C3AED,100:FF3158&section=footer" width="100%" />
+
+LinkedIn and TryHackMe links above are general links. Replace them with your personal profile URLs when ready.
+
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Stay+curious.+Keep+building.;Learn+something+new+every+day.;Code.+Secure.+Build.+Repeat." alt="Animated closing message"/>
+<br/>
 
 ⚡ CODE. SECURE. BUILD. REPEAT.
 
-Always learning. Always building. One step at a time.
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:6d28d9,100:09090f&height=100&section=footer" width="100%" alt="Decorative footer"/>
 </div>
-
-
-
-
-
-
-👨‍💻 WHO AM I?
-
-<img align="right" width="145" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
-
-Hey! I’m Sayat, a second-year student exploring software development and cybersecurity.
-
-* 💻 Building projects and improving my programming skills
-* 🐍 Learning Python and scripting
-* 🌐 Exploring web development and networking
-* 🛡️ Studying cybersecurity through legal training labs
-* 🚩 Practicing problem-solving with CTF challenges
-* 🚀 Working toward becoming a skilled software and security engineer
-
-class Sayat:
-    username = "Sayat228"
-    role = "Developer in progress"
-    interests = ["Coding", "Cybersecurity", "Networking", "CTF"]
-    motto = "Learn. Build. Secure. Repeat."
-
-⸻
