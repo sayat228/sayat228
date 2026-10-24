@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./banner.gif" width="100%" alt="SAYAT228 animated banner">
+</div>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
